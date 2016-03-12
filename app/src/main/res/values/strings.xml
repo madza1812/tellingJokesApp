@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Build it Bigger</string>
+    <string name="instructions">Press the button for a delicious joke!</string>
+    <string name="button_text">Tell Joke</string>
+    <string name="action_settings">Settings</string>
+    <string name="ok_alert">OK</string>
+    <string name="unable_retrieve_joke">Something is wrong. Unable to retrieve joke !</string>
+    <string name="retrieving_joke_message">Retrieving joke&#8230;</string>
+    <string name="no_internet_title">Lost Connection</string>
+    <string name="no_internet_message">Must connect to the internet to get the joke.</string>
+
+</resources>
